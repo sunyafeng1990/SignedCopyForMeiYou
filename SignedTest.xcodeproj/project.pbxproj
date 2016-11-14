@@ -15,6 +15,7 @@
 		A4076F3A1DD9515E005C0E45 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A4076F381DD9515E005C0E45 /* LaunchScreen.storyboard */; };
 		A4076F451DD9515E005C0E45 /* SignedTestTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4076F441DD9515E005C0E45 /* SignedTestTests.m */; };
 		A4076F501DD9515E005C0E45 /* SignedTestUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = A4076F4F1DD9515E005C0E45 /* SignedTestUITests.m */; };
+		A4076F5E1DD955C2005C0E45 /* 22222.png in Resources */ = {isa = PBXBuildFile; fileRef = A4076F5D1DD955C2005C0E45 /* 22222.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		A4076F4B1DD9515E005C0E45 /* SignedTestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = SignedTestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		A4076F4F1DD9515E005C0E45 /* SignedTestUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = SignedTestUITests.m; sourceTree = "<group>"; };
 		A4076F511DD9515E005C0E45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		A4076F5D1DD955C2005C0E45 /* 22222.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = 22222.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +83,7 @@
 		A4076F1E1DD9515E005C0E45 = {
 			isa = PBXGroup;
 			children = (
+				A4076F5D1DD955C2005C0E45 /* 22222.png */,
 				A4076F291DD9515E005C0E45 /* SignedTest */,
 				A4076F431DD9515E005C0E45 /* SignedTestTests */,
 				A4076F4E1DD9515E005C0E45 /* SignedTestUITests */,
@@ -248,6 +251,7 @@
 			files = (
 				A4076F3A1DD9515E005C0E45 /* LaunchScreen.storyboard in Resources */,
 				A4076F371DD9515E005C0E45 /* Assets.xcassets in Resources */,
+				A4076F5E1DD955C2005C0E45 /* 22222.png in Resources */,
 				A4076F351DD9515E005C0E45 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
